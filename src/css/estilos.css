@@ -185,11 +185,6 @@ body{
   opacity: 0;
 }
 
-.btn-plataforma:hover{
-  background-color: #fff;
-  color: #000;  
-}
-
 .compre-ja .btn-plataforma .plataformas.ativo{
   display: flex;
   opacity: 1;
